@@ -48,7 +48,6 @@ int main() {
         cout <<"Masukkan batas bawah: "; cin >>a;
         cout <<"Masukkan batas atas: "; cin >>b;
         cout <<"Masukkan banyak trapesium: "; cin >>c1;
-        vector<double> f;
         bool kebalik =false;
         if(a>b) { //bila batas bawah > batas atas, hasil akhir dikali negatif
             swap(a,b);
@@ -59,6 +58,7 @@ int main() {
             return 0;
         }
         c = (b-a)/c1; //c adalah panjang subselang
+        vector<double> f;
         for(double i=a;i<=b;i+=c) {
             double f1=arr[n]; int x=n;
             while(x>0) { // penghitungan polinom
