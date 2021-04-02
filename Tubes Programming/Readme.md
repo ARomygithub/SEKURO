@@ -1,5 +1,10 @@
 # Tubes Programming
 
+# Anggota Kelompok
+* M Sayyidurrahman Ash Shidqi (16720335)
+* Ahmad Romy Zahran (16520159)
+* Daffa Romyz Aufa (16520068)
+
 ## Pendahuluan
 Program ditulis dalam bahasa C++ dan dapat dijalankan setelah di-_compile_.
 
@@ -22,3 +27,6 @@ Permainan terjadi dalam peta 13*13. Pada awal program, robot `R` akan memulai da
 ## Skor
 * Membasmi 1 kecoak = +1 poin
 * Membasmi 1 boss kecoak = +4 poin
+
+## Link
+https://github.com/ARomygithub/SEKURO/tree/main/Tubes%20Programming
