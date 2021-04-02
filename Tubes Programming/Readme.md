@@ -5,7 +5,7 @@ Program ditulis dalam bahasa C++ dan dapat dijalankan setelah di-_compile_.
 
 ## Plot
 Dalam program ini, Anda akan membasmi kecoak mutan menggunakan robot.
-Permainan terjadi dalam peta 15*15. Pada awal program, robot `R` akan memulai dari koordinat (0,0) dan satu kecoak `K` muncul secara random pada koordinat yang tidak sama dengan `R`.
+Permainan terjadi dalam peta 13*13. Pada awal program, robot `R` akan memulai dari koordinat (0,0) dan satu kecoak `K` muncul secara random pada koordinat yang tidak sama dengan `R`.
 
 ## Aturan
 - Robot memiliki atribut awal `health=20` dan dapat berkurang bila menabrak atau ditabrak oleh kecoak. Program selesai ketika dihentikan oleh pengguna atau `health` sudah habis.
